@@ -4,7 +4,9 @@ fds
 biendebienlamodi
 =======
 unamodificacion
->>>>>>> modi1
+
+
 
 
 mismalineaenmaster
+mismalinea2
