@@ -1,3 +1,7 @@
 fds
 
+<<<<<<< HEAD
 biendebienlamodi
+=======
+unamodificacion
+>>>>>>> modi1
